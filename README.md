@@ -1,6 +1,6 @@
 # Sandbox
 
-![status](https://github.com/laksby/sandbox/actions/workflows/gatsby.yml/badge.svg?branch=master)
+![status](https://github.com/laksby/sandbox/actions/workflows/gatsby.yml/badge.svg?branch=main)
 
 This repository contains source code for sandbox template.
 
