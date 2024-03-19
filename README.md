@@ -2,7 +2,7 @@
 
 ![status](https://github.com/laksby/sandbox/actions/workflows/gatsby.yml/badge.svg?branch=master)
 
-This repository contains source code for sandbox.
+This repository contains source code for sandbox template.
 
 [Link to Preview](https://laksby.github.io/sandbox/)
 
